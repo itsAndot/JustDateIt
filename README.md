@@ -29,6 +29,7 @@ Let's keep things **well organized**! 🗂
 ### Credits
 
 - Created by Andot (me)
+
 Under GPL-3.0 license.
 
 # JustDateIt - ¡Arregla las fechas de tus archivos como un profesional!
@@ -63,4 +64,5 @@ Solo tienes que hacer doble clic en el archivo **start**, elegir tu idioma y sel
 ### Créditos
 
 - Creado por Andot (yo)
+
 Bajo licencia GPL-3.0.
