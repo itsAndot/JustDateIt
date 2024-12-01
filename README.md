@@ -13,10 +13,9 @@ Just double click the **start** file, choose your language, and point it to the 
 ## ⚙️ Installation
 
 1. Download the script.
-2. Open a terminal/command prompt.
-3. Run the script by executing `python just_date_it.py`.
-4. Select your language (1 for English, 2 for Spanish).
-5. Relax (if you even have time to!)
+2. Run the script by double-clicking `start`.
+3. Select your language (1 for English, 2 for Spanish).
+4. Relax (if you even have time to!)
 
 ## 📋 Requirements
 
@@ -46,10 +45,9 @@ Solo tienes que hacer doble clic en el archivo **start**, elegir tu idioma y sel
 ## ⚙️ Instalación
 
 1. Descarga el script.
-2. Abre una terminal o línea de comandos.
-3. Ejecuta el script con `python just_date_it.py`.
-4. Elige tu idioma (1 para inglés, 2 para español).
-5. Relájate (si es que te da tiempo).
+2. Ejecuta el script haciendo doble clic en `start`.
+3. Elige tu idioma (1 para inglés, 2 para español).
+4. Relájate (si es que te da tiempo).
 
 ## 📋 Requisitos
 
