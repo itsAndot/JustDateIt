@@ -2,7 +2,7 @@
 
 ## 📅 Tired of transferring files and losing their creation dates?
 
-We’ve all been there—moving files from one computer to another, from one drive to the next, and *poof*—the creation dates vanish into thin air! Your files look like they’ve been created yesterday, when we all know that’s not true. But don’t worry, I got you!
+We’ve all been there—moving files from one unit to another, from one device to the next, and *poof*—the creation dates vanish into thin air! Your files look like they’ve been created yesterday, when we all know that’s not true. But don’t worry, I got you!
 
 **JustDateIt** is here to save the day by syncing your file creation dates with their modification dates! Now your files will stay in chronological order, and you won’t lose track of when they were really created.
 
@@ -36,7 +36,7 @@ Under GPL-3.0 license.
 
 ## 📅 ¿Cansado de pasar archivos y que se te desordenen?
 
-Todos hemos pasado por eso: mover archivos de una computadora a otra, de un disco a otro, y *¡zas!* — las fechas de creación desaparecen como por arte de magia. ¡Tus archivos parecen haber sido creados ayer, cuando sabemos que eso no es cierto! Pero no te preocupes, tengo la solución.
+Todos hemos pasado por eso: mover archivos de una unidad a otra, de un dispositivo a otro, y *¡zas!* — las fechas de creación desaparecen como por arte de magia. ¡Tus archivos parecen haber sido creados ayer, cuando sabemos que eso no es cierto! Pero no te preocupes, tengo la solución.
 
 **JustDateIt** está aquí para sincronizar las fechas de creación de tus archivos con las fechas de modificación. Así, tus archivos permanecerán en el orden cronológico y no perderás la pista de cuándo fueron realmente creados.
 
