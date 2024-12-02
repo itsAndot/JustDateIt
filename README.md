@@ -15,7 +15,8 @@ Just double click the **start** file, choose your language, and point it to the 
 1. Download the script.
 2. Run the script by double-clicking `start`.
 3. Select your language (1 for English, 2 for Spanish).
-4. Relax (if you even have time to!)
+4. Select the folder where the files are.
+5. Relax (if you even have time to!)
 
 ## 📋 Requirements
 
@@ -49,7 +50,8 @@ Solo tienes que hacer doble clic en el archivo **start**, elegir tu idioma y sel
 1. Descarga el script.
 2. Ejecuta el script haciendo doble clic en `start`.
 3. Elige tu idioma (1 para inglés, 2 para español).
-4. Relájate (si es que te da tiempo).
+4. Selecciona la carpeta donde están los archivos.
+5. Relájate (si es que te da tiempo).
 
 ## 📋 Requisitos
 
